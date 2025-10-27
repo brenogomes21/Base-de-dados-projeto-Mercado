@@ -1,2 +1,2 @@
 # Base-de-dados-projeto-Mercado
-Base de Dados do projeto-mercado
+Dump do projeto-mercado e seu dicionário de dados.
