@@ -1,2 +1,2 @@
-# Base-de-dados-projeto-Mercado
-Dump do projeto-mercado e seu dicionário de dados.
+# MySQL Projeto
+Dump do projeto-mercado e seu dicionário de dados, feito no SGBD MySQL.
